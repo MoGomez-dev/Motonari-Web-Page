@@ -14,7 +14,7 @@ export const About = () => {
             <li><Span>名前</Span>Motonari</li>
             <li><Span>生年月日</Span>2002年12月13日</li>
             <li><Span>出身・在住</Span>愛知</li>
-            <li><Span>趣味</Span>野球、野球観戦,サッカー観戦、麻雀,映画</li>
+            <li><Span>趣味</Span>野球,野球観戦,サッカー観戦,映画鑑賞</li>
             <li><Span>使う技術</Span>HTML,CSS,JavaScript,React,Redux,firebase</li>
           </ul>
         </AboutWrapper>
